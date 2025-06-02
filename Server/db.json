@@ -1,0 +1,74 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Camiseta Básica Branca",
+      "preco": 49.9,
+      "descricao": "Camiseta 100% algodão, gola careca, ideal para o dia a dia.",
+      "imagem": "https://images.unsplash.com/photo-1722310752951-4d459d28c678"
+    },
+    {
+      "id": 2,
+      "nome": "Calça Jeans Skinny",
+      "preco": 139.9,
+      "descricao": "Calça jeans azul escuro com elastano, caimento justo e confortável.",
+      "imagem": "https://images.unsplash.com/photo-1738618806206-b2cb6331193c"
+    },
+    {
+      "id": 3,
+      "nome": "Vestido Floral Midi",
+      "preco": 179.9,
+      "descricao": "Vestido midi com estampa floral, tecido leve e alças finas.",
+      "imagem": "https://images.unsplash.com/photo-1496747611176-843222e1e57c"
+    },
+    {
+      "id": 4,
+      "nome": "Jaqueta Jeans Oversized",
+      "preco": 229.9,
+      "descricao": "Jaqueta jeans larga com lavagem clara e bolsos frontais.",
+      "imagem": "https://images.unsplash.com/photo-1520975661595-6453be3f7070"
+    },
+    {
+      "id": 5,
+      "nome": "Blusa Canelada Manga Longa",
+      "preco": 79.9,
+      "descricao": "Blusa ajustada de manga longa, malha canelada e gola alta.",
+      "imagem": "https://images.unsplash.com/photo-1611652022458-b80e11f6e63a"
+    },
+    {
+      "id": 6,
+      "nome": "Shorts Alfaiataria Preto",
+      "preco": 99.9,
+      "descricao": "Shorts elegante em tecido de alfaiataria, com bolsos laterais.",
+      "imagem": "https://images.unsplash.com/photo-1632575471033-5ff556948086"
+    },
+    {
+      "id": 7,
+      "nome": "Camisa Social Slim",
+      "preco": 119.9,
+      "descricao": "Camisa social branca, corte slim fit e tecido leve.",
+      "imagem": "https://images.unsplash.com/photo-1581655353564-df123a1eb820"
+    },
+    {
+      "id": 8,
+      "nome": "Saia Plissada Bege",
+      "preco": 129.9,
+      "descricao": "Saia midi plissada com elástico na cintura, tecido fluido.",
+      "imagem": "https://images.unsplash.com/photo-1527332042004-0b1a4d8646a3"
+    },
+    {
+      "id": 9,
+      "nome": "Moletom Com Capuz Unissex",
+      "preco": 149.9,
+      "descricao": "Moletom confortável com capuz e bolso canguru.",
+      "imagem": "https://images.unsplash.com/photo-1709745490680-eb2d7c94a196"
+    },
+    {
+      "id": 10,
+      "nome": "Tênis Branco Casual",
+      "preco": 199.9,
+      "descricao": "Tênis branco de couro sintético, ideal para looks casuais.",
+      "imagem": "https://images.unsplash.com/photo-1582231640349-6ea6881fabeb"
+    }
+  ]
+}
